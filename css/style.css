@@ -1980,7 +1980,7 @@ body[data-layout-mode="dark"] .breadcrumb {
 }
 @media (max-width: 1350px) {
   .home-2 .home-icon {
-    display: none;
+     margin-left: 17%;
   }
 }
 @media (max-width: 992px) {
