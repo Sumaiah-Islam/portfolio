@@ -2530,6 +2530,11 @@ body[data-layout-mode="dark"] .pricing .pricing-item:hover .top-bar {
   bottom: 0;
   margin-left:44%;
 }
+@media (max-width: 1350px){
+  .my-work .tns-controls{
+    margin-left:32%;
+  }
+}
 .my-work .tns-controls button {
   height: 40px;
   width: 40px;
